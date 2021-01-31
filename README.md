@@ -13,3 +13,5 @@ One command to create orders'/customers' free database for development purposes 
 <br>
 Simply run
 > mysql -u USER -p DATABASE < create_development_db.sql 
+
+![Screen shot](https://res.cloudinary.com/amman20/image/upload/v1612079724/Screenshot_from_2021-01-31_10-50-08_bxwz1u.png)
