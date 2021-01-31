@@ -1,5 +1,5 @@
 use DATABASE_NAME;
-select 'Welcome to Woocommerce Staging DB Factory!!' AS '';
+select 'Welcome to Woocommerce Development DB Factory!!' AS '';
 
 #Posts
 SELECT 'Deleting unneeded posts...' AS '';
