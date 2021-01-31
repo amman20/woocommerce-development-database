@@ -12,4 +12,4 @@ One command to create orders'/customers' free database for development purposes 
 #How to use it
 <br>
 Simply run
-> mysql -u USER -p < create_development_db.sql 
+> mysql -u USER -p DATABASE < create_development_db.sql 
