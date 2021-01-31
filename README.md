@@ -6,3 +6,10 @@ One command to create orders'/customers' free database for development purposes 
 `Feel free to extend it to your own purpose and to add your own database tables.`
 
 > Don't forget to change database prefix to your own
+<br>
+<br>
+
+#How to use it
+<br>
+Simply run
+> mysql -u USER -p < create_development_db.sql 
