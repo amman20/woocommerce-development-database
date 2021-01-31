@@ -1,4 +1,3 @@
-use DATABASE_NAME;
 select 'Welcome to Woocommerce Development DB Factory!!' AS '';
 
 #Posts
