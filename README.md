@@ -9,7 +9,7 @@ One command to create orders'/customers' free database for development purposes 
 <br>
 <br>
 
-#How to use it
+## How to use it
 <br>
 Simply run
 > mysql -u USER -p DATABASE < create_development_db.sql 
